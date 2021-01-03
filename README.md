@@ -24,13 +24,13 @@
     📫 Email me: <a href="mailto:zyphenofficialx@gmail.com">zyphenofficialx@gmail.com</a>
     <hr>
     <h4> <i> Programming Languages and Tools </i> </h4>
-    <code><img width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/cpp.svg"></code>
     <code><img width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/cs.svg"></code>
     <code><img width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/git.svg"></code>
     <code><img width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/html.svg"></code>
     <code><img width="20px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/java.svg"></code>
     <code><img width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/javascript.svg"></code>
     <code><img width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/nodejs.svg"></code>
+    <code><img width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/python.svg"></code>
     <code><img width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/clion.svg"></code>
     <code><img width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/intellij.svg"></code>
     <code><img width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/visualstudio.svg"></code>
