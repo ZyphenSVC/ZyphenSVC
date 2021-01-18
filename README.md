@@ -21,7 +21,7 @@
     <img alt="Zyphen's Spotify", width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/spotify.svg"> - ZyphenOfficial
     </a>
     <br><br>    
-    📫 Email me: <a href="mailto:zyphenofficialx@gmail.com">zyphenofficialx@gmail.com</a>
+    📫 Email me: <a href="mailto:sriaditya.vedantam@gmail.com">sriaditya.vedantam@gmail.com</a>
     <hr>
     <h4> <i> Programming Languages and Tools </i> </h4>
     <code><img width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/cs.svg"></code>
