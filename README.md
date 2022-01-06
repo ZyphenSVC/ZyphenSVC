@@ -10,7 +10,7 @@
     <hr>
     <h3> Outreach</h3>
     <a href="https://zyphensvc.com/">
-    <img alt="Profile Picture", width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/profilepic.jpg"> - Sriaditya Vedantam (ZyphenSVC)
+    <img alt="Profile Picture", width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/profilepic.jpg"> - ZyphenSVC
     </a>
     <a href="https://www.linkedin.com/in/svedantam/">
     <img alt="LinkedIn: SVedantam", width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/linkedin-2.svg"> - SVedantam
