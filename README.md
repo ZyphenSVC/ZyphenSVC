@@ -18,10 +18,10 @@
     <a href="https://discord.com/">
     <img alt="Discord: Zyphen#8624", width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/discord.svg"> - Zyphen#8624
     </a>
-    <br><br>
     <a href="https://twitter.com/ZyphenSVC">
     <img alt="Zyphen's Twitter", width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/twitter.svg"> - @ZyphenSVC
     </a>
+    <br><br>
     📫 Email me: <a href="mailto:sriaditya.vedantam@protonmail.com">sriaditya.vedantam@protonmail.com</a>
     <hr>
     <h4> <i> Programming Languages and Tools </i> </h4>
