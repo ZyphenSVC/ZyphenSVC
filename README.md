@@ -4,7 +4,7 @@
     <br><br>
     🔭 I’m currently working on a Discord Library.
     <br><br>
-    🌱 I’m currently learning Computer Science with Combinatorics.
+    🌱 Studying for the OSCP Exam!
     <br><br>
     👯 I’m looking to collaborate.
     <hr>
