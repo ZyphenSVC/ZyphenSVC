@@ -16,13 +16,13 @@
     <img alt="LinkedIn: SVedantam", width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/linkedin-2.svg"> - SVedantam
     </a>
     <a href="https://discord.com/">
-    <img alt="Discord: Zyphen#8624", width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/discord.svg"> - Zyphen#8624
+    <img alt="Discord: ZyphenSVC", width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/discord.svg"> - ZyphenSVC
     </a>
     <a href="https://twitter.com/ZyphenSVC">
     <img alt="Zyphen's Twitter", width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/twitter.svg"> - @ZyphenSVC
     </a>
     <br><br>
-    📫 Email me: <a href="mailto:sriaditya.vedantam@protonmail.com">sriaditya.vedantam@protonmail.com</a>
+    📫 Email me: <a href="mailto:svedantam@zyphensvc.com">svedantam@zyphensvc.com</a>
     <hr>
     <h4> <i> Programming Languages and Tools </i> </h4>
     <code><img width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/clang.svg"></code>
