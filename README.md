@@ -1,41 +1,68 @@
-<div align="center">
-    <h2> Hello, I'm Zyphen 👋 </h2>
-    A self-taught developer from <a href="https://www.google.com/maps/search/?api=1&query=Georgia,USA">Georgia, USA</a>
-    <br><br>
-    🔭 I’m currently working on a Discord Library.
-    <br><br>
-    🌱 Studying for the OSCP Exam!
-    <br><br>
-    👯 I’m looking to collaborate.
-    <hr>
-    <h3> Outreach</h3>
-    <a href="https://zyphensvc.com/">
-    <img alt="Profile Picture", width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/profilepic.jpg"> - ZyphenSVC
-    </a>
-    <a href="https://www.linkedin.com/in/svedantam/">
-    <img alt="LinkedIn: SVedantam", width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/linkedin-2.svg"> - SVedantam
-    </a>
-    <a href="https://discord.com/">
-    <img alt="Discord: ZyphenSVC", width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/discord.svg"> - ZyphenSVC
-    </a>
-    <a href="https://twitter.com/ZyphenSVC">
-    <img alt="Zyphen's Twitter", width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/twitter.svg"> - @ZyphenSVC
-    </a>
-    <br><br>
-    📫 Email me: <a href="mailto:svedantam@zyphensvc.com">svedantam@zyphensvc.com</a>
-    <hr>
-    <h4> <i> Programming Languages and Tools </i> </h4>
-    <code><img width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/clang.svg"></code>
-    <code><img width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/git.svg"></code>
-    <code><img width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/html.svg"></code>
-    <code><img width="20px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/java.svg"></code>
-    <code><img width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/nodejs.svg"></code>
-    <code><img width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/python.svg"></code>
-    <code><img width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/clion.svg"></code>
-    <code><img width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/intellij.svg"></code>
-    <code><img width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/visualstudio.svg"></code>
-    <code><img width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/visualstudiocode.svg"></code>
-    <code><img width="25px" src="https://raw.githubusercontent.com/ZyphenSVC/ZyphenSVC/master/assets/webstorm.svg"></code>
-    <hr>
-    <img src="https://github-readme-stats.vercel.app/api?username=ZyphenSVC&show_icons=true&hide_border=true&theme=tokyonight"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZyphenSVC&layout=compact&theme=tokyonight"/>
+# Hi, I'm Sriaditya
+
+I’m a **Mathematics and Computer Science student at the University of Georgia** interested in **applied cryptography, cybersecurity, privacy-preserving systems, and mathematically grounded computing**.
+
+My work sits at the intersection of **theory and implementation**. I’m especially interested in building schemes that are rigorous in theory, practical in deployment, and efficient in security-sensitive settings.
+
+## Interests
+
+- Applied cryptography
+- Homomorphic encryption
+- Privacy-preserving machine learning
+- Post-quantum cryptography
+- Algorithms and mathematical modeling
+- Security research and challenge design
+- Research engineering at the intersection of math, systems, and computation
+
+## Current Focus
+
+I’m currently focused on furthering my work in **cryptography and privacy-preserving computation**, especially questions around the practical viability of secure computation under constraints like runtime, scalability, and real-world deployment.
+
+Alongside that, I’m continuing to build across **research engineering, software development, databases, and technical writing**.
+
+## Selected Experience
+
+- **Research Engineering Team Lead, Small Satellite Research Laboratory**  
+  Leading a 12-person research engineering team working on computational topology, neural networks, and computer vision problems involving satellite and drone imaging.
+
+- **Cryptography Research and Directed Reading**  
+  Studied elliptic curves, the discrete log problem, Birch and Swinnerton-Dyer, complex geometry, and related algebraic structures with applications to cryptography.
+
+- **ImaginaryCTF Board Member**  
+  Helped design cryptography challenges grounded in modern research and contributed to an international competition with over 60,000 participants.
+
+- **Automation and Operational Engineering**  
+  Built a Selenium automation workflow that cleared a six-month backlog by executing 40,000 tasks in a restricted-access operational environment.
+
+## Technical Background
+
+**Languages:**  
+Python, Java, JavaScript, TypeScript, SQL, C/C++
+
+**Tools & Platforms:**  
+Git, GitHub, Linux/Unix, React, Next.js, Node.js, MongoDB, Selenium, Jupyter, SageMath, PyTorch, OpenCV
+
+**Areas:**  
+Cryptography, cybersecurity, algorithms, mathematical computing, machine learning, computer vision, databases, privacy-preserving AI
+
+## On This GitHub
+
+You’ll find a mix of:
+
+- Research notes and technical writeups
+- Cryptography and security projects
+- Mathematical and LaTeX-based documents
+- Full-stack and systems-oriented software projects
+- Coursework, experiments, and independent explorations
+
+## Career Direction
+
+I’m interested in opportunities where I can contribute to technically demanding work in **security, cryptography, privacy, and research-driven engineering**, especially roles that value both mathematical depth and practical implementation.
+
+## Connect
+
+- [LinkedIn Profile](https://www.linkedin.com/in/svedantam/)
+- Website: [zyphensvc.com](https://zyphensvc.com/)
+- Email: `svedantam (at) zyphensvc (dot) com`
+- Signal: ZyphenSVC (dot) 01
+- Talk to me encrypted: [PGP Key](https://zyphensvc.com/media/Zyphen.asc)
