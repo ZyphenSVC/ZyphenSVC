@@ -1,68 +1,34 @@
-# Hi, I'm Sriaditya
+<h1 align="center">Hi, I'm Sriaditya.</h1>
+<p align="center">Cryptography · Mathematics · Systems</p>
 
-I’m a **Mathematics and Computer Science student at the University of Georgia** interested in **applied cryptography, cybersecurity, privacy-preserving systems, and mathematically grounded computing**.
+<p align="center">
+  <img src="assets/lavender-orbit.svg" width="480" alt="" />
+</p>
 
-My work sits at the intersection of **theory and implementation**. I’m especially interested in building schemes that are rigorous in theory, practical in deployment, and efficient in security-sensitive settings.
+<p align="center">
+  <a href="https://zyphensvc.com">Portfolio & writing</a> ·
+  <a href="https://www.linkedin.com/in/svedantam/">LinkedIn</a> ·
+  <a href="mailto:svedantam@zyphensvc.com">Email</a> ·
+  <a href="https://zyphensvc.com/media/Zyphen.asc">PGP</a>
+</p>
 
-## Interests
+I'm **Sriaditya Vedantam**, a cybersecurity and privacy graduate student at the **University of Georgia**, with a background in computer science and mathematics. I study cryptography and build software that puts the theory to work.
 
-- Applied cryptography
-- Homomorphic encryption
-- Privacy-preserving machine learning
-- Post-quantum cryptography
-- Algorithms and mathematical modeling
-- Security research and challenge design
-- Research engineering at the intersection of math, systems, and computation
+- **Exploring** homomorphic encryption, privacy-preserving machine learning, and post-quantum cryptography.
+- **Building** automation and API integrations as a Solutions Engineer at **Athens Micro**.
+- **Previously** led a 12-person satellite research team and helped organize **ImaginaryCTF**.
+- **Around here** you'll find research notes, cryptography experiments, and software projects.
 
-## Current Focus
+### A few tools I work with
 
-I’m currently focused on furthering my work in **cryptography and privacy-preserving computation**, especially questions around the practical viability of secure computation under constraints like runtime, scalability, and real-world deployment.
+<p>
+  <img src="assets/python.svg" width="28" height="28" alt="Python" />&nbsp;&nbsp;
+  <img src="assets/cpp.svg" width="28" height="28" alt="C++" />&nbsp;&nbsp;
+  <img src="assets/java.svg" width="28" height="28" alt="Java" />&nbsp;&nbsp;
+  <img src="assets/javascript.svg" width="28" height="28" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="assets/git.svg" width="28" height="28" alt="Git" />
+</p>
 
-Alongside that, I’m continuing to build across **research engineering, software development, databases, and technical writing**.
+Python · TypeScript · C/C++ · SQL · SageMath · PyTorch · Linux
 
-## Selected Experience
-
-- **Research Engineering Team Lead, Small Satellite Research Laboratory**  
-  Leading a 12-person research engineering team working on computational topology, neural networks, and computer vision problems involving satellite and drone imaging.
-
-- **Cryptography Research and Directed Reading**  
-  Studied elliptic curves, the discrete log problem, Birch and Swinnerton-Dyer, complex geometry, and related algebraic structures with applications to cryptography.
-
-- **ImaginaryCTF Board Member**  
-  Helped design cryptography challenges grounded in modern research and contributed to an international competition with over 60,000 participants.
-
-- **Automation and Operational Engineering**  
-  Built a Selenium automation workflow that cleared a six-month backlog by executing 40,000 tasks in a restricted-access operational environment.
-
-## Technical Background
-
-**Languages:**  
-Python, Java, JavaScript, TypeScript, SQL, C/C++
-
-**Tools & Platforms:**  
-Git, GitHub, Linux/Unix, React, Next.js, Node.js, MongoDB, Selenium, Jupyter, SageMath, PyTorch, OpenCV
-
-**Areas:**  
-Cryptography, cybersecurity, algorithms, mathematical computing, machine learning, computer vision, databases, privacy-preserving AI
-
-## On This GitHub
-
-You’ll find a mix of:
-
-- Research notes and technical writeups
-- Cryptography and security projects
-- Mathematical and LaTeX-based documents
-- Full-stack and systems-oriented software projects
-- Coursework, experiments, and independent explorations
-
-## Career Direction
-
-I’m interested in opportunities where I can contribute to technically demanding work in **security, cryptography, privacy, and research-driven engineering**, especially roles that value both mathematical depth and practical implementation.
-
-## Connect
-
-- [LinkedIn Profile](https://www.linkedin.com/in/svedantam/)
-- Website: [zyphensvc.com](https://zyphensvc.com/)
-- Email: `svedantam (at) zyphensvc (dot) com`
-- Signal: ZyphenSVC (dot) 01
-- Talk to me encrypted: [PGP Key](https://zyphensvc.com/media/Zyphen.asc)
+<sub>Interested in the math behind secure systems? <a href="https://zyphensvc.com">Read my notes ↗</a></sub>
